@@ -1,1 +1,1 @@
-print ("XYZ changed welcome message")
+print("Welcme to python course")
